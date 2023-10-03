@@ -1,0 +1,15 @@
+.tablee{
+    border: 3px solid black;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.bl{
+    background: black;
+    width: 75px;
+    height: 75px;
+}
+.wh{
+    background: white;
+    width: 75px;
+    height: 75px;
+}
